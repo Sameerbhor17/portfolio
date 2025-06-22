@@ -1,0 +1,14 @@
+.profile-photo {
+  width: 7.5rem;
+  height: 7.5rem;
+  background-image: url('../../../assets/images/profile.png');
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  border: 2px solid white;
+  /* box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); */
+}
+
+.bg-green {
+  background-color: #1e453e !important;
+}

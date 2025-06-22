@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.p-2r {
+  padding-top: 2rem !important;
+}
+
+.p-1r {
+  padding-top: 1rem !important;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #495057;
+  border-radius: 5px;
+}
