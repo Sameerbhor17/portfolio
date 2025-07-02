@@ -6,9 +6,12 @@
   background-position: center;
   border-radius: 50%;
   border: 2px solid white;
-  /* box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); */
 }
 
 .bg-green {
   background-color: #1e453e !important;
+}
+
+.font-weight-bold {
+  font-weight: bold;
 }
