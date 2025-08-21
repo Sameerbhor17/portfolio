@@ -6,7 +6,18 @@
   padding-top: 1rem !important;
 }
 
-.sidebar .nav-link:hover {
+.active-tab {
+  border-bottom: white 1px solid;
+  border-radius: unset !important;
+}
+
+.nav-pills .nav-link {
+  display: inline-block !important;
+  padding: 0;
+  margin: 5px 0;
+}
+
+/* .sidebar .nav-link:hover {
   background-color: #495057;
   border-radius: 5px;
-}
+} */
