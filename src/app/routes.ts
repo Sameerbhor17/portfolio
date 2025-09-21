@@ -12,5 +12,6 @@ export const appRoutes: Routes = [
   { path: 'experience', component: Experience },
   { path: 'projects', component: Projects },
   { path: 'education', component: Education },
-  { path: 'contact', component: Contact }
+  { path: 'contact', component: Contact },
+  { path: '**', component: About }
 ];
